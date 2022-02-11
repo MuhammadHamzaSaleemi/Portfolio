@@ -24,19 +24,7 @@ npm run build
 
 Server will be available at http://127.0.0.1:3000 in your browser
 
-# Project snapshot
 
-## Home page
-
-![image](./src/images/Portfolio - Home.png)
-
-## Sidebar
-
-![image](./src/images/Portfolio - Sidebar.png)
-
-## Resume
-
-![image](./src/images/Portfolio - Resume.png)
 
 ## Portfolio
 
