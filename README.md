@@ -26,13 +26,7 @@ Server will be available at http://127.0.0.1:3000 in your browser
 
 
 
-## Portfolio
 
-![image](./src/images/Portfolio - Portfolio.png)
-
-## Contact
-
-![image](./src/images/Portfolio - Contact.png)
 
 
 
